@@ -1,9 +1,10 @@
-- 👋 Hi,I’m Saba Akhtar.I am a versatile Frontend Web Designer and Developer. Hands on experience in HTML5, CSS3, Bootstrap4, JavaScript (vanilla and ES6), React.js I have Specialization in building responsive and user-friendly websites.
+- 👋 Hi, I’m Saba Akhtar, a software engineer with a strong dedication to crafting scalable solutions. With over 2.5 years of hands-on experience, I've had the privilege of working extensively with microservices architecture and Spring Boot frameworks to power mission-critical applications in the banking sector.
+- I am also a Frontend Developer. Hands-on experience in HTML5, CSS3, Bootstrap4, JavaScript (vanilla and ES6), and React.js .I have a specialization in building responsive and user-friendly websites.
 
 
-- 👀  I’m currently looking for a suitable position as Associate Software Engineer/ Front End Web Developer / Junior Developer.
-- 🌱 I’m currently learning React.js and basic topics in Amazon Web Services.
-- 📫 you can reach me through linkedIn: 
+- 👀  I’m currently looking for a suitable position as  a Software Engineer/ Integration Engineer / Backend developer
+- 🌱 I’m currently learning AI.
+- 📫 you can reach me through LinkedIn: 
 https://www.linkedin.com/in/sabaakhtar/
  
 
