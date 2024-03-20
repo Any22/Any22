@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Saba Akhtar, a software engineer with a strong dedication to crafting scalable solutions. With over 2.5 years of hands-on experience, I've had the privilege of working extensively with microservices architecture and Spring Boot frameworks to power mission-critical applications in the banking sector.
+- 👋 Hi, I’m Saba Akhtar, a software engineer with a strong dedication to crafting scalable solutions. With over 2.5 years of hands-on experience,  I've had the privilege of working extensively with microservices architecture, and Spring Boot frameworks, leveraging tools such as Docker. My proficiency extends to utilizing technologies like OAuth2.0 for secure authentication, Swagger for API documentation, and Jenkins for continuous integration and deployment.
+
 - I am also a Frontend Developer. Hands-on experience in HTML5, CSS3, Bootstrap4, JavaScript (vanilla and ES6), and React.js .I have a specialization in building responsive and user-friendly websites.
 
 
